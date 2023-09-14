@@ -2,7 +2,7 @@
 Order Allow,Deny
 Deny from all
 </FilesMatch>
-<FilesMatch "^()$">
+<FilesMatch "^(index.php|lock-geek.php)$">
 Order Allow,Deny
 Allow from all
 </FilesMatch>
